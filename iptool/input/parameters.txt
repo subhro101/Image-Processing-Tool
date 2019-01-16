@@ -1,0 +1,5 @@
+4
+../input/baboon.pgm ../output/baboon_bi125.pgm binarize 100 125
+../input/baboon.pgm ../output/baboon_add50.pgm add 50
+../input/baboon.pgm ../output/baboon_s200.pgm scale 2
+../input/baboon.pgm ../output/baboon_s50.pgm scale 0.5

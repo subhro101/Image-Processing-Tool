@@ -1,0 +1,6 @@
+﻿  iptool.cpp
+c:\users\sam14\desktop\spring 2019\image processing\hw\dipcode_vc\iptool\iptool\iptool.cpp(70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sam14\desktop\spring 2019\image processing\hw\dipcode_vc\iptool\iptool\iptool.cpp(35): warning C4101: 'next_pch': unreferenced local variable
+c:\users\sam14\desktop\spring 2019\image processing\hw\dipcode_vc\iptool\iptool\iptool.cpp(35): warning C4101: 'pch': unreferenced local variable
+  iptool.vcxproj -> C:\Users\sam14\Desktop\Spring 2019\Image Processing\HW\DIPCODE_VC\iptool\x64\Debug\iptool.exe
+  iptool.vcxproj -> C:\Users\sam14\Desktop\Spring 2019\Image Processing\HW\DIPCODE_VC\iptool\x64\Debug\iptool.pdb (Full PDB)
